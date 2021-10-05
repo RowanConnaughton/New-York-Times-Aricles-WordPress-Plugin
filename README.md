@@ -1,4 +1,4 @@
-# New York Times Aricles WordPress Plugin
+# New York Times Articles WordPress Plugin
 
 With this plugin you can search for articles post on the new york times and display them on your wordpress site.
 
